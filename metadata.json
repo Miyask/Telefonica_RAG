@@ -1,0 +1,5 @@
+{
+  "name": "Telefónica Empresas RAG Assistant",
+  "description": "Prototipo de asistente RAG para Telefónica Empresas con control de vigencia, citas obligatorias y handoff a agente.",
+  "requestFramePermissions": []
+}
